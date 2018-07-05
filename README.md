@@ -9,3 +9,9 @@ Suggested Toolset:  TBA
   >Please strip your helper files before uploading.  An appropriate .gitignore will be provided soon.
   
   
+  
+  
+  OrchardBlock Slack:  We need some Slack here BobDobbs.
+  OrchardCoin Wiki:  https://github.com/reverendmred/OrchardCoin/wiki
+  
+  
