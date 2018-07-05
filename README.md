@@ -11,7 +11,11 @@ Suggested Toolset:  TBA
   
   
   
+  
+  #Important Project Links
+  
   OrchardBlock Slack:  We need some Slack here BobDobbs.
+  
   OrchardCoin Wiki:  https://github.com/reverendmred/OrchardCoin/wiki
   
   
